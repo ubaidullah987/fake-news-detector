@@ -98,5 +98,4 @@ For best production results, point this to a model you have specifically fine-tu
 - Safer:
   - `The city council approved the budget after a public vote on Tuesday evening.`
 =======
-# fake-news-detector
->>>>>>> 00a4e489e07ce42b791c4e4dc3ef439b06611ee4
+
